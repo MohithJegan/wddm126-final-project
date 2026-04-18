@@ -17,3 +17,6 @@ function showAboutMessage() {
   console.log("Welcome to the enhanced About section!");
 }
 showAboutMessage();
+
+let userName = "Mohith";
+console.log(userName);
