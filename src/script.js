@@ -11,3 +11,9 @@ function showProjectInfo() {
 showProjectInfo();
 
 console.log(projectTitle);
+
+
+function showAboutMessage() {
+  console.log("Welcome to the enhanced About section!");
+}
+showAboutMessage();
